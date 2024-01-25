@@ -1,5 +1,4 @@
-# NEC sem results 
-<!DOCTYPE html>
+# NEC sem results
 <html lang="en">
 <head>
   <meta charset="UTF-8">
